@@ -1,2 +1,1 @@
-# Practice-shell
-Learning shell
+learning shell is main idea
